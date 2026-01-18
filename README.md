@@ -87,7 +87,7 @@ Netlify - Seamless deployment platform
 📬 Connect with Olga
 
 🐙 GitHub: @SheillaO
-🔗 Repository: github.com/SheillaO/mateo
+🔗 Repository: https://github.com/SheillaO/react-weather-forecast-app
 🌐 Live App: https://react-weather-forecast-dashboard.netlify.app/
 <div align="center">
 Built with 💙 and React
